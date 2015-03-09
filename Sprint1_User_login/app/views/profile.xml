@@ -1,0 +1,7 @@
+<Alloy>
+	<Tab title="Profile">
+		<Window title="Profile">
+			<Label>Profiel omgeving</Label>
+		</Window>
+	</Tab>
+</Alloy>

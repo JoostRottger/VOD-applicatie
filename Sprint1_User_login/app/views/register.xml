@@ -1,0 +1,11 @@
+<Alloy>
+	<Tab title="Registreren">
+		<Window title="Registreren">
+			<TextField id="usernameInput"></TextField>
+			<TextField id="passwordInput"></TextField>
+			<TextField id="emailInput"></TextField>			
+			<Button id="registerButton" onClick="addUser"></Button>
+		</Window>
+	</Tab>
+</Alloy>
+

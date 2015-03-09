@@ -1,0 +1,7 @@
+<Alloy>
+	<Tab title="Video">
+		<Window title="Video">
+			<Label>Video omgeving</Label>
+		</Window>
+	</Tab>
+</Alloy>

@@ -1,0 +1,23 @@
+"Tab[platform=ios]":{
+	icon: 'images/captured.png'
+},
+
+"#emailInput":{
+	color:'#336699',
+    top:110,
+    left:10,
+    width:300,
+    height:40,
+    hintText:'Emailadres',
+    keyboardType:Titanium.UI.KEYBOARD_DEFAULT,
+    returnKeyType:Titanium.UI.RETURNKEY_DEFAULT,
+    borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED
+}
+
+"#registerButton":{
+	title:'Registreren',
+    top:160,
+    width:90,
+    height:35,
+    borderStyle: Titanium.UI.INPUT_BORDERSTYLE_ROUNDED
+}

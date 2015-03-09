@@ -1,0 +1,10 @@
+<Alloy>
+	<Tab title="Inloggen">
+		<Window title="Inloggen">
+			<TextField id="usernameInput"></TextField>
+			<TextField id="passwordInput"></TextField>
+			<Button id="loginButton" onClick="userLogin"></Button>			
+		</Window>
+	</Tab>
+</Alloy>
+

@@ -1,0 +1,19 @@
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#label": {
+	font: {
+		fontSize: 12
+	}
+}
+
+"#loginButton":{
+	title:'Inloggen',
+    top:110,
+    width:90,
+    height:35,
+    borderStyle: Titanium.UI.INPUT_BORDERSTYLE_ROUNDED
+}

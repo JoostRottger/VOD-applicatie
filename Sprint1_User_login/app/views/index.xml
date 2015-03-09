@@ -1,0 +1,7 @@
+<Alloy>
+   <TabGroup>
+   		<Require src="users"/>
+		<Require src="login"/>	
+		<Require src="register"/>	
+	</TabGroup>
+</Alloy>
